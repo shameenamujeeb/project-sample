@@ -1,0 +1,17 @@
+.banner{
+background-color:#7851a9;
+height:100px;
+width:auto;
+margin-bottom:50px;
+
+}
+.banner-text{
+top:4%;
+left:50%;
+position:absolute;
+color:white;
+
+}
+.back{
+background-color:#d6cadd;
+}
